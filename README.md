@@ -1,4 +1,4 @@
-# month-of-mern-week-0-challenge
+# Month of mern week 0 challenge
 
 ## Task
 - [ ] Create  Google clone using HTML, CSS, JS.
