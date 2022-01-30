@@ -6,7 +6,7 @@
   - [ ] Google search page
   - [ ] Google Images page
   - [ ] Google  Advanced search page
-- [ ] We recommend you to watch our video in the drive to get the exact idea of what is expected.
+- [ ] We recommend you to watch [this video](https://drive.google.com/drive/folders/1-LZKpPATCi94Rlms4gCX2UiIBAwWpgsh?usp=sharing) to get the exact idea of what is expected.
 - [ ] Please be free to use your creativity. The submitted website doesn't have to be exactly the way as is given in the video, you can add / take out elements which are not included in the TODO under every page.  
 - [ ] You can use the template provided to you.  
 
