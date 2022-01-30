@@ -10,7 +10,7 @@
 - [ ] Please be free to use your creativity. The submitted website doesn't have to be exactly the way as is given in the video, you can add / take out elements which are not included in the TODO under every page.  
 - [ ] You can use the template provided to you.  
 
-### TODO
+## TODO
 
 - [ ] Google search page should have the folowing details:
   - [ ]  2 buttons, ```Images``` and ```Advanced Search``` which when clicked, open up the respective respective pages(which are created by you).
@@ -18,7 +18,6 @@
   - [ ]  The input bar should have round border. 
   - [ ]  The input bar should have a shadow effect when hovered over or when active(i.e. when we are typing in it).
   - [ ]  Should have a ```Google Search``` button which when clicked opens the result google search page of the input, else if the input is empty, should open: https://www.google.com/
-  - [ ]  ```I'm Feeling Lucky``` button that opens up: https://www.google.com/doodles 
  
 
 - [ ] Google Images page
@@ -27,7 +26,6 @@
   - [ ]  The input bar should have round border. 
   - [ ]  The input bar should have a shadow effect when hovered over or when active(i.e. when we are typing in it).
   - [ ]  Should have a ```Google Images Search``` button which when clicked opens the result google images search page of the input, else if the input is empty, should open: https://www.google.com/imghp
-  - [ ]  ```I'm Feeling Lucky``` button that opens up: https://www.google.com/doodles 
 
 - [ ] Google  Advanced search page
   - [ ] Google logo at the top left.
