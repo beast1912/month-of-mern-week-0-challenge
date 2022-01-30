@@ -16,15 +16,15 @@
   - [ ]  2 buttons, ```Images``` and ```Advanced Search``` which when clicked, open up the respective respective pages(which are created by you).
   - [ ]  Should have google logo.
   - [ ]  The input bar should have round border. 
-  - [ ]  The input bar should have a shadow effect when hovered over or when active(i.e. when we are typing in it).
-  - [ ]  Should have a ```Google Search``` button which when clicked opens the result google search page of the input, else if the input is empty, should open: https://www.google.com/
+  - [ ]  The input bar should have a shadow effect when hovered over.
+  - [ ]  Should have a ```Google Search``` button which when clicked opens the result google search page of the input, else if the input is empty, should open: https://www.google.com/ . The button should have a thick border when hovered over.
  
 
 - [ ] Google Images page
   - [ ] 2 buttons, ```Search``` and ```Advanced Search``` which when clicked, open up the respective respective pages(which are created by you).
   - [ ]  Should have google images logo.
   - [ ]  The input bar should have round border. 
-  - [ ]  The input bar should have a shadow effect when hovered over or when active(i.e. when we are typing in it).
+  - [ ]  The input bar should have a shadow effect when hovered over.
   - [ ]  Should have a ```Google Images Search``` button which when clicked opens the result google images search page of the input, else if the input is empty, should open: https://www.google.com/imghp
 
 - [ ] Google  Advanced search page
