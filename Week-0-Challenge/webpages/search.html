@@ -1,17 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Google Search</title>
 
-    <link rel="stylesheet" href="search.css">
+    <link rel="stylesheet" href="search.css" />
+    <script src="search.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a href="images.html">
+        <button type="submit">Images</button>
+      </a>
+      <a href="adv_search.html">
+        <button type="submit">Advanced Search</button>
+      </a>
+    </nav>
+    <div class="google_search">
+      <div style="display: flex">
+        <a href="search.html" title="home">
+          <img src="../assets/google_PNG.png" alt="google logo" />
+        </a>
+      </div>
+      <div>
+        <input type="search" name="search" id="search" />
+      </div>
 
-</head>
-<body>
-    <script type="text/javascript">
-
-    </script>
-</body>
+      <div style="display: flex">
+        <button type="submit" id="search_button" onclick="search()">
+          Google Search
+        </button>
+      </div>
+    </div>
+  </body>
 </html>
